@@ -2,10 +2,6 @@ Myntra Clone
 
 A responsive Myntra clone built using HTML, CSS, and JavaScript. This project replicates the look and feel of the popular e-commerce fashion website Myntra, including product listings, navigation, and interactive elements.
 
-Demo
-
-Add your live demo link here (if hosted via GitHub Pages, Netlify, Vercel, etc.):
-
 Features
 
 Fully responsive design (mobile, tablet, desktop)
@@ -29,7 +25,8 @@ CSS3 – Styling and layout
 JavaScript – Dynamic content and interactivity
 
 Screenshots
-<img width="1920" height="1080" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/0149cc54-5e59-4417-8a45-44408170fa01" />
+<img width="1825" height="919" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/1c0e7a6b-e3c2-4527-a8e7-cb4b735eb551" />
+
 
 
 Include screenshots of your project:
