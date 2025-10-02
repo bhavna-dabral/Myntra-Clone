@@ -29,5 +29,5 @@ Screenshots
 
 
 
-Include screenshots of your project:
+
 
